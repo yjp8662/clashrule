@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-KEYWORD,xboxassets
 
+#暴雪游戏
+DOMAIN-SUFFIX,blizzard.com
+
 #steam
 DOMAIN-SUFFIX,mxboxlive.com
 DOMAIN,ext2-hkg1.steamsetver.net
