@@ -1,11 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-#emby机场服
-DOMAIN-SUFFIX,aca.best
-
-#emby付费服
-DOMAIN-SUFFIX,misakaf.org
-
 #完美
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
