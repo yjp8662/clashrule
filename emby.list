@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,makima.online
 
 #emby付费服
 DOMAIN-SUFFIX,misakaf.org
+
+#emby公益服
+DOMAIN-SUFFIX,emby.wtf
