@@ -1,5 +1,10 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+
+
+#学英语网线
+DOMAIN-SUFFIX,duolingo.com
+
 #完美
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
