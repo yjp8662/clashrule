@@ -22,7 +22,7 @@ DOMAIN,ext2-hkg1.steamsetver.net
 DOMAIN,cdn.steamstatic.com
 DOMAIN,cs.steampowered.com
 DOMAIN,cm.steampowered.com
-DOMAIN,api.steampowered.com
+#DOMAIN,api.steampowered.com
 DOMAIN,ext1-sgp1.steamserver.net
 DOMAIN,content1.steampowered.com
 DOMAIN,content2.steampowered.com
