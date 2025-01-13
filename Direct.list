@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-KEYWORD,xboxassets
 
+#暴雪游戏下载
+DOMAIN-SUFFIX,cdn.blizzard.com
+DOMAIN-SUFFIX,blizzard.gcdn
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
