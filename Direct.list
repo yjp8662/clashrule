@@ -1,7 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 
-
 #学英语
 DOMAIN-SUFFIX,duolingo.com
 
@@ -237,6 +236,12 @@ DOMAIN-SUFFIX,meitu.com
 DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meipai.com
+
+#个人网址
+DOMAIN-SUFFIX,tjzhhz.top
+DOMAIN-SUFFIX,yjp8662.iok.la
+DOMAIN-SUFFIX,yjp8662.top
+DOMAIN-SUFFIX,u1628854n8.iask.in
 
 # LeTV 乐视
 DOMAIN-SUFFIX,le.com
