@@ -1,14 +1,11 @@
 #emby机场服
-DOMAIN-SUFFIX,aca.best
-DOMAIN-SUFFIX,makima.online
-DOMAIN-SUFFIX,cinema.makima.online
-DOMAIN-SUFFIX,theater.makima.online
-DOMAIN-SUFFIX,anime.makima.online
-DOMAIN-SUFFIX,celluloid.makima.online
-DOMAIN-SUFFIX,restrict.makima.online
+#DOMAIN-SUFFIX,cinema.makima.online
+#DOMAIN-SUFFIX,theater.makima.online
+#DOMAIN-SUFFIX,anime.makima.online
+#DOMAIN-SUFFIX,celluloid.makima.online
+#DOMAIN-SUFFIX,restrict.makima.online
 
 #emby付费服
-DOMAIN-SUFFIX,misakaf.org
 
 #emby公益服
 DOMAIN-SUFFIX,emby.wtf
