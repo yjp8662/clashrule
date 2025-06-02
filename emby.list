@@ -6,6 +6,7 @@
 #DOMAIN-SUFFIX,restrict.makima.online
 
 #emby付费服
+DOMAIN-SUFFIX,313445.xyz
 
 #emby公益服
 DOMAIN-SUFFIX,emby.wtf
